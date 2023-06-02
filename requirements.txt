@@ -2,3 +2,4 @@ streamlit
 streamlit-chat
 langchain
 google-api-python-client
+openai
